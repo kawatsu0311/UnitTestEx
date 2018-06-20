@@ -3,6 +3,7 @@ package moe.lisp;
 /**
  * テスト対象の例．下記引用元のリスト1.11を元に一部改変．
  * 渡辺 著『JUnit実践入門』技術評論社, p.21 (2012).
+ * 
  * @author kawatsu
  */
 public class Calculator {
